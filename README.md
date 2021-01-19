@@ -2,6 +2,10 @@
 babelDemo
 
 
+## easyPlugin
+
+简单插件的实现
+
 ## helper
 
 babel-helper 的umd文件。
